@@ -15,3 +15,4 @@ public class CurrencyRate {
     String name;
     String value;
 }
+
